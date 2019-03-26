@@ -1,2 +1,2 @@
 # word2vec-Google-colab
-Word2vec tensorflow on google colab
+Word2vec using Tensorflow on google colab
